@@ -62,3 +62,5 @@ Then, after some rearranging and then equating $$\frac{\partial B}{\partial E}$$
 $$
 \frac{\partial x}{\partial t} = \frac{1}{\sqrt{\mu_0 \epsilon_0}} = c = 299792458\ \mathrm{m \, s^{-1}}
 $$
+
+Accordintg to thevindu, timmy is gay
